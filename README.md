@@ -1,20 +1,9 @@
 # MCQ EXAM OF STUDENTS BY API
 
-# how student can attend EXAM ?
-### registered student can login via username and password <br>
-### attend the exam by login by provinding INFORMARION
-
-### submit the answer to end point ** /test/ ** with (Authorization (key) Bearer token). Provide the answers in body as (answers) key like an array of [ [ id, answer],[ id, answer],[ id, answer], . . .]
-
-### student can get the answers by providing token to end point **/get-answers/ **
-
-### student CRUD end point ** /student/ *
-### standard CRUD end point ** /standard/ *
-
 
 ## step - 1
 clone the project <br >
-` git clone https://github.com/sangrampattnaik/student_examination.git`
+` git clone https://github.com/Milanswain/mcq_exam_by_students.git`                                         
 
 
 ## step - 2
